@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#42a5f5</color>
+    <color name="colorPrimaryDark">#42a5f5</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="accent_color">#ff5722</color>
+    <color name="primary">#e43f3f</color>
+    <color name="primary_dark">#E12929</color>
+    <color name="primary_darker">#cc1d1d</color>
+    <color name="bg_login">#26ae90</color>
+    <color name="bg_register">#FAFAFA</color>
+    <color name="btn_login_color">#42a5f5</color>
+    <color name="bg_main">#428bca</color>
+    <color name="white">#ffffff</color>
+    <color name="transparent">#FFFFFFFF</color>
+    <color name="input_login">#222222</color>
+    <color name="input_login_hint">#999999</color>
+    <color name="input_register">#888888</color>
+    <color name="input_register_bg">#ffffff</color>
+    <color name="input_register_hint">#D7CCC8</color>
+    <color name="lightGray">#e0e0e0</color>
+    <color name="input_login_register_text_color">#5D4037</color>
+    <color name="btn_login">#26ae90</color>
+    <color name="btn_login_bg">#eceef1</color>
+    <color name="text_reduction_positive">#8BC34A</color>
+    <color name="text_reduction_negative">#f44336</color>
+    <color name="lbl_name">#333333</color>
+    <color name="btn_logut_bg">#ff6861</color>
+    <color name="btn_upload_attestation_success">#dcf0c6</color>
+
+    <color name="black_overlay">#66000000</color>
+
+
+</resources>

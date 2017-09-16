@@ -1,0 +1,107 @@
+<resources>
+    <string name="app_name">MaPharmConsDZ</string>
+    <string name="title_activity_nd_accueil">NdAccueil</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="facebook_app_id">221623114699507</string>
+
+    <string name="user_exists">User already logged in</string>
+    <string name="title_activity_form_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="hint_pseudo">Pseudo</string>
+    <string name="hint_password">Mot de passe</string>
+    <string name="hint_name">Nom &amp; Prénom</string>
+    <string name="btn_login">CONNECTER</string>
+    <string name="btn_register">ENREGISTRER</string>
+    <string name="btn_link_to_login">Déjà enregistré! Connectez-vous.</string>
+    <string name="btn_link_to_Register">Retour</string>
+    <string name="welcome">Welcome</string>
+    <string name="name">Fullname</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="btn_link_to_register">Pas un membre? Inscrire maintenant.</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_pharmacie_local">Map</string>
+    <string name="call">call</string>
+    <string name="title_activity_sm_pharmacie_proche_map">Map</string>
+    <string name="searchdistance">search distance</string>
+    <string name="distance">distance</string>
+    <string name="languages">Languages</string>
+    <string name="language">languages</string>
+    <string name="SelectText">Select yor preferred language</string>
+    <string name="defaultValue">English</string>
+    <string name="app_language_pref" translatable="false">app_language_pref</string>
+    <string name="search_distance_pref" translatable="false">search_distance_pref</string>
+    <string name="offline_mode_pref" translatable="false">offline_mode_pref</string>
+    <string name="search_distance_txt">Search Distance</string>
+    <string name="app_language_txt">Application Language</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="offline_mode_pref_txt">Offline Mode</string>
+    <string name="search_distance_sum">Search distance for Pharmacies</string>
+    <string name="offline_mode_sum">This option if selected will not allow connection to the internet</string>
+    <string name="app_language_sum">Select the application language</string>
+    <string name="language_default_value" translatable="false">en</string>
+    <string name="search_distance_default_value">6000</string>
+    <string-array name="language_list_array">
+        <item>English</item>
+        <item>Français</item>
+        <item>العربية</item>
+    </string-array>
+
+    <string-array name="language_list_values">
+        <item>en</item>
+        <item>fr</item>
+        <item>ar</item>
+    </string-array>
+
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">YOUR_KEY_HERE</string>
+    <string name="load_img">Image</string>
+    <string name="image">Image</string>
+    <string name="drawer_txt">Drawer</string>
+    <string name="drawer_open">Drawer Open</string>
+    <string name="drawer_closed">Drawer Closed</string>
+    <string name="call_txt">Call</string>
+    <string name="location_txt">Location</string>
+    <string name="title_activity_settings">Settings</string>
+
+
+    <string name="hint_nom_pharm">pharmacy name</string>
+    <string name="hint_adresse_pharm">Pharmacy address</string>
+    <string name="hint_num_tel_pharm">Tél :</string>
+
+    <string name="btn_retour">Retour</string>
+
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="uploadBtnText">Upload the certificate of your pharmacy </string>
+    <string name="textDemande">Medicine demand: \n the demand will be sent to the closest pharmacy from your location</string>
+    <string name="entrerleNomDemid">Enter the name of medicine </string>
+    <string name="btnEnvoyee">Send</string>
+    <string name="search_field_med">Enter the name of medicine </string>
+    <string name="search">search</string>
+    <string name="title_activity_sm_pharmacie_proche_med_map">Map</string>
+    <string name="HintNomMed">name of medicine</string>
+    <string name="aller_vers_la_pharmacie">Toward pharmacy</string>
+    <string name="nom_pharmacy">Name:</string>
+    <string name="adresse_pharmacy">Address:</string>
+    <string name="tel">Phone:</string>
+    <string name="ouverture_pharm">Opening:</string>
+    <string name="fermeture_pharm">closing:</string>
+    <string name="allPharmacy">All</string>
+    <string name="nearPharmacy">Near</string>
+    <string name="pour_avoir_les_pharmacies_pr_s_qui_ont_le_m_dicament">Pour avoir les pharmacies prés qui ont le médicament</string>
+</resources>
+

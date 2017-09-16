@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\menu\\nd_accueil.xml",
+        "source": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\src\\main\\res\\menu\\nd_accueil.xml"
+    },
+    {
+        "merged": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_search.xml",
+        "source": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\src\\main\\res\\menu\\menu_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_search.xml",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\src\\main\\res\\menu\\menu_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\menu\\nd_accueil.xml",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\src\\main\\res\\menu\\nd_accueil.xml"
+    },
+    {
+        "merged": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_nd_accueil_drawer.xml",
+        "source": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\src\\main\\res\\menu\\activity_nd_accueil_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_nd_accueil_drawer.xml",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\src\\main\\res\\menu\\activity_nd_accueil_drawer.xml"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\place_autocomplete_fragment.xml",
+        "source": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\layout-v21\\place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\sm_pharm_proche.xml",
+        "source": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\src\\main\\res\\layout-v21\\sm_pharm_proche.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\place_autocomplete_fragment.xml",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\layout-v21\\place_autocomplete_fragment.xml"
+    }
+]

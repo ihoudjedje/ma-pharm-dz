@@ -1,0 +1,1 @@
+include ':smartloginlibrary-v0.5beta', ':butterknife-7.0.1-1d5645ed48278a98a1725c90919687c5a70b2252', ':apache-httpcomponents-httpcore', ':httpclient-4.5', ':volley', ':app', ':gson-2.5'

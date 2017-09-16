@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff">
+
+
+
+
+
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="Ajouter au Stoque"
+        android:layout_alignWithParentIfMissing="false"
+        android:layout_centerVertical="true"
+        android:layout_alignLeft="@+id/btn_link_liste_med_activity_scrollTabs"
+        android:layout_alignStart="@+id/btn_link_liste_med_activity_scrollTabs"
+        android:textSize="15dp"
+        android:textColor="@color/btn_login_color" />
+
+    <ImageButton
+        android:id="@+id/btn_link_liste_med_activity_scrollTabs"
+        android:layout_width="110dp"
+        android:layout_height="110dp"
+        android:background="@drawable/circular_textview"
+        android:src="@drawable/cart_remove"
+        android:layout_alignTop="@+id/btn_link_liste_med_activity_scrollTabs_2"
+        android:layout_toLeftOf="@+id/btn_link_liste_med_activity_scrollTabs_2"
+        android:layout_toStartOf="@+id/btn_link_liste_med_activity_scrollTabs_2"
+        android:layout_marginRight="38dp"
+        android:layout_marginBottom="10dp"
+        android:layout_marginEnd="38dp" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="Consulter Demande"
+        android:layout_alignTop="@+id/btn_link_consultation_demande"
+        android:layout_alignLeft="@+id/btn_link_consultation_demande"
+        android:layout_alignStart="@+id/btn_link_consultation_demande"
+        android:layout_marginTop="127dp"
+        android:textColor="@color/btn_login_color"
+        android:textSize="15dp" />
+
+    <ImageButton
+        android:id="@+id/btn_link_consultation_demande"
+        android:layout_width="110dp"
+        android:layout_height="110dp"
+        android:background="@drawable/circular_textview"
+        android:src="@drawable/list"
+        android:layout_marginTop="69dp"
+        android:layout_below="@+id/btn_link_liste_med_activity_scrollTabs"
+        android:layout_centerHorizontal="true" />
+
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="Modifier du Stoque"
+        android:layout_alignBaseline="@+id/textView"
+        android:layout_alignBottom="@+id/textView"
+        android:layout_toRightOf="@+id/btn_link_liste_med_activity_scrollTabs"
+        android:layout_toEndOf="@+id/btn_link_liste_med_activity_scrollTabs"
+        android:textColor="@color/btn_login_color"
+        android:textSize="15dp" />
+
+    <ImageButton
+        android:id="@+id/btn_link_liste_med_activity_scrollTabs_2"
+        android:layout_width="110dp"
+        android:layout_height="110dp"
+        android:background="@drawable/circular_textview"
+        android:src="@drawable/cart_add"
+        android:layout_marginBottom="45dp"
+        android:layout_above="@+id/textView3"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginRight="64dp"
+        android:layout_marginEnd="64dp" />
+
+</RelativeLayout>
+</RelativeLayout>

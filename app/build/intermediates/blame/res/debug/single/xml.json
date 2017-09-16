@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\xml\\progress_bar.xml",
+        "source": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\src\\main\\res\\xml\\progress_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\xml\\preferences.xml",
+        "source": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\src\\main\\res\\xml\\preferences.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\xml\\progress_bar.xml",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\src\\main\\res\\xml\\progress_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\xml\\preferences.xml",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\src\\main\\res\\xml\\preferences.xml"
+    }
+]

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent" android:layout_height="fill_parent"
+    android:padding="15dp"
+    android:background="#FFF"
+    android:isScrollContainer="true">
+
+    <TextView
+        android:padding="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/textDemande"
+        android:id="@+id/textView3"
+        android:textSize="18dp"
+        android:textColorHint="@color/bg_main"
+        android:textColorLink="#7e0909"
+        android:textColor="#252d22"
+        android:textAlignment="center"
+        android:layout_above="@+id/medDemendee"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="58dp"
+        android:background="@null" />
+
+        <AutoCompleteTextView
+
+        android:id="@+id/medDemendee"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:ems="8"
+        android:enabled="true"
+        android:nestedScrollingEnabled="false"
+        android:typeface="serif"
+        android:shadowColor="@color/colorPrimaryDark"
+        android:hint="@string/HintNomMed"
+        android:backgroundTint="@color/bg_main"
+        android:inputType="textAutoComplete"
+            android:layout_above="@+id/BtnEnvoyeeDemend"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="82dp" />
+
+
+    <Button
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        android:text="@string/btnEnvoyee"
+        android:id="@+id/BtnEnvoyeeDemend"
+        android:background="@color/bg_main"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="44dp" />
+
+    <ImageView
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:id="@+id/imageView4"
+        android:layout_above="@+id/textView3"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="49dp"
+        android:src="@drawable/ic_menu_send"
+        android:tint="@color/bg_main"
+        android:background="@null" />
+
+
+</RelativeLayout>

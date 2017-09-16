@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="searchdistance">Distance de la recherche </string>
+    <string name="languages">La langue</string>
+    <string name="language">languages</string>
+    <string name="SelectText">choisir votre langue</string>
+    <string name="defaultValue">English</string>
+    <string name="search_distance_txt">Distance de recherche</string>
+    <string name="app_language_txt">Langue de l\'Application</string>
+    <string name="action_refresh">Rafraichir</string>
+    <string name="offline_mode_pref_txt">Mode Hors Ligne</string>
+    <string name="search_distance_sum">Distance de Recherche pour les Pharmacies</string>
+    <string name="offline_mode_sum">Interdire l\'accès à Internet</string>
+    <string name="app_language_sum">Selectionner la langue de l\'application</string>
+    <string name="load_img">Image</string>
+    <string name="image">Image</string>
+    <string name="drawer_txt">Drawer</string>
+    <string name="drawer_open">Drawer Open</string>
+    <string name="drawer_closed">Drawer Closed</string>
+    <string name="call_txt">Call</string>
+    <string name="location_txt">Location</string>
+    <string name="textDemande">Demande de midécament: \n la demande sera envoyée a les pharmacie qui sont prés de votre localisation</string>
+    <string name="entrerleNomDemid">Entrée le nom de midécament</string>
+    <string name="btnEnvoyee">Envoyée</string>
+    <string name="search_field_med">Taper nom  medicament</string>
+    <string name="search">search</string>
+    <string name="HintNomMed">le nom de médicament</string>
+    <string name="aller_vers_la_pharmacie">Aller vers la pharmacie</string>
+    <string name="nom_pharmacy">Nom:</string>
+    <string name="tel">Tel :</string>
+    <string name="ouverture_pharm">Overture:</string>
+    <string name="fermeture_pharm">Fermeture:</string>
+    <string name="allPharmacy">All</string>
+    <string name="nearPharmacy">Near</string>
+    <string name="pour_avoir_les_pharmacies_pr_s_qui_ont_le_m_dicament">Pour avoir les pharmacies prés qui ont le médicament</string>
+</resources>

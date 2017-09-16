@@ -1,0 +1,930 @@
+[
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\international_delivery.png",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\src\\main\\res\\drawable\\international_delivery.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\photo_couverture2.png",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\src\\main\\res\\drawable\\photo_couverture2.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_refresh_black_24dp.png",
+        "source": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\src\\main\\res\\drawable\\ic_refresh_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_pause_light.xml",
+        "source": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_pause_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_copy_material.xml",
+        "source": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\drawable\\abc_ic_menu_copy_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_connecting_mono_dark.xml",
+        "source": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_media_route_connecting_mono_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_action_selector.xml",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\exploded-aar\\com.oguzdev\\CircularFloatingActionMenu\\1.0.2\\res\\drawable\\button_action_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_copy_material.xml",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\drawable\\abc_ic_menu_copy_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_directions_white_24dp.png",
+        "source": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\src\\main\\res\\drawable\\ic_directions_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_call_white_24dp.png",
+        "source": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\src\\main\\res\\drawable\\ic_call_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\side_nav_bar.xml",
+        "source": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\arrow2.png",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\src\\main\\res\\drawable\\arrow2.png"
+    },
+    {
+        "merged": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_cut_material.xml",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\drawable\\abc_ic_menu_cut_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bag.png",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\src\\main\\res\\drawable\\bag.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_mono_dark.xml",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_media_route_mono_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\medicines_calculation_software.jpg",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\src\\main\\res\\drawable\\medicines_calculation_software.jpg"
+    },
+    {
+        "merged": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\verification_of_delivery_list_clipboard_symbol.png",
+        "source": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\src\\main\\res\\drawable\\verification_of_delivery_list_clipboard_symbol.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_location_disabled_white_24dp.png",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\src\\main\\res\\drawable\\ic_location_disabled_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_play_dark.xml",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_play_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_cast_dark.xml",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_cast_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\medical_1.png",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\src\\main\\res\\drawable\\medical_1.png"
+    },
+    {
+        "merged": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\medicines_calculation_software.jpg",
+        "source": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\src\\main\\res\\drawable\\medicines_calculation_software.jpg"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pharmacy.png",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\src\\main\\res\\drawable\\pharmacy.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_refresh_black_24dp.png",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\src\\main\\res\\drawable\\ic_refresh_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_checkbox_unchecked_mtrl.xml",
+        "source": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\drawable\\abc_btn_checkbox_unchecked_mtrl.xml"
+    },
+    {
+        "merged": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_pause_dark.xml",
+        "source": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_pause_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_play_dark.xml",
+        "source": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_play_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\arrow2.png",
+        "source": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\src\\main\\res\\drawable\\arrow2.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pharmacy.png",
+        "source": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\src\\main\\res\\drawable\\pharmacy.png"
+    },
+    {
+        "merged": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_cast_light.xml",
+        "source": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_cast_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_play_light.xml",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_play_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\error.png",
+        "source": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\src\\main\\res\\drawable\\error.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\share.png",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\src\\main\\res\\drawable\\share.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_settings_light.xml",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_settings_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\side_nav_bar.xml",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_sub_action_selector.xml",
+        "source": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\exploded-aar\\com.oguzdev\\CircularFloatingActionMenu\\1.0.2\\res\\drawable\\button_sub_action_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.0.0-alpha2\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pharmacydelivery.png",
+        "source": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\src\\main\\res\\drawable\\pharmacydelivery.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_list_white_24dp.png",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\src\\main\\res\\drawable\\ic_list_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_sub_action_dark_selector.xml",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\exploded-aar\\com.oguzdev\\CircularFloatingActionMenu\\1.0.2\\res\\drawable\\button_sub_action_dark_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\medicine.png",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\src\\main\\res\\drawable\\medicine.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_sub_action_selector.xml",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\exploded-aar\\com.oguzdev\\CircularFloatingActionMenu\\1.0.2\\res\\drawable\\button_sub_action_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\photo_couverture.jpg",
+        "source": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\src\\main\\res\\drawable\\photo_couverture.jpg"
+    },
+    {
+        "merged": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\medicine.png",
+        "source": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\src\\main\\res\\drawable\\medicine.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cart_remove.png",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\src\\main\\res\\drawable\\cart_remove.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\checked.png",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\src\\main\\res\\drawable\\checked.png"
+    },
+    {
+        "merged": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hospital_sign.png",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\src\\main\\res\\drawable\\hospital_sign.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\international_delivery.png",
+        "source": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\src\\main\\res\\drawable\\international_delivery.png"
+    },
+    {
+        "merged": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cart_remove.png",
+        "source": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\src\\main\\res\\drawable\\cart_remove.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\verification_of_delivery_list_clipboard_symbol.png",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\src\\main\\res\\drawable\\verification_of_delivery_list_clipboard_symbol.png"
+    },
+    {
+        "merged": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_connecting_mono_light.xml",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_media_route_connecting_mono_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_connecting_mono_light.xml",
+        "source": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_media_route_connecting_mono_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_call_black_24dp.png",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\src\\main\\res\\drawable\\ic_call_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\errorimage.png",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\src\\main\\res\\drawable\\errorimage.png"
+    },
+    {
+        "merged": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ratingpng.png",
+        "source": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\src\\main\\res\\drawable\\ratingpng.png"
+    },
+    {
+        "merged": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bag.png",
+        "source": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\src\\main\\res\\drawable\\bag.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo.png",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pharmacy_pin.png",
+        "source": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\src\\main\\res\\drawable\\pharmacy_pin.png"
+    },
+    {
+        "merged": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_call_black_24dp.png",
+        "source": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\src\\main\\res\\drawable\\ic_call_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\first_letter.xml",
+        "source": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\src\\main\\res\\drawable\\first_letter.xml"
+    },
+    {
+        "merged": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ratingpng.png",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\src\\main\\res\\drawable\\ratingpng.png"
+    },
+    {
+        "merged": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.0.0-beta1\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\medical.png",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\src\\main\\res\\drawable\\medical.png"
+    },
+    {
+        "merged": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_mono_light.xml",
+        "source": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_media_route_mono_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_mono_dark.xml",
+        "source": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_media_route_mono_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_connecting_mono_dark.xml",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_media_route_connecting_mono_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_settings_light.xml",
+        "source": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_settings_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\technology.png",
+        "source": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\src\\main\\res\\drawable\\technology.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_call_white_24dp.png",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\src\\main\\res\\drawable\\ic_call_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\refresh_wifi_signal.png",
+        "source": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\src\\main\\res\\drawable\\refresh_wifi_signal.png"
+    },
+    {
+        "merged": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\business.png",
+        "source": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\src\\main\\res\\drawable\\business.png"
+    },
+    {
+        "merged": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_selectall_material.xml",
+        "source": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\drawable\\abc_ic_menu_selectall_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\business.png",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\src\\main\\res\\drawable\\business.png"
+    },
+    {
+        "merged": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_sub_action_dark_selector.xml",
+        "source": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\exploded-aar\\com.oguzdev\\CircularFloatingActionMenu\\1.0.2\\res\\drawable\\button_sub_action_dark_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_share_material.xml",
+        "source": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\drawable\\abc_ic_menu_share_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\placeholder.png",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\src\\main\\res\\drawable\\placeholder.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_settings_dark.xml",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_settings_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_settings_dark.xml",
+        "source": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_settings_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\circular_textview.xml",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\src\\main\\res\\drawable\\circular_textview.xml"
+    },
+    {
+        "merged": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\add_drugs_to_your_pharmacy.png",
+        "source": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\src\\main\\res\\drawable\\add_drugs_to_your_pharmacy.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\arrow.png",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\src\\main\\res\\drawable\\arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_location_on_black_24dp.png",
+        "source": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\src\\main\\res\\drawable\\ic_location_on_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_list_white_24dp.png",
+        "source": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\src\\main\\res\\drawable\\ic_list_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\errorimage.png",
+        "source": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\src\\main\\res\\drawable\\errorimage.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_location_searching_white_24dp.png",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\src\\main\\res\\drawable\\ic_location_searching_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_selectall_material.xml",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\drawable\\abc_ic_menu_selectall_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\medical.png",
+        "source": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\src\\main\\res\\drawable\\medical.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_pause_dark.xml",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_pause_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_add_circle_outline_black_24dp.png",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\src\\main\\res\\drawable\\ic_add_circle_outline_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_paste_material.xml",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\drawable\\abc_ic_menu_paste_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_pause_light.xml",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_pause_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\first_letter.xml",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\src\\main\\res\\drawable\\first_letter.xml"
+    },
+    {
+        "merged": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_play_light.xml",
+        "source": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_play_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_connecting.xml",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast\\8.4.0\\res\\drawable\\cast_ic_notification_connecting.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\add_drugs_to_your_pharmacy.png",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\src\\main\\res\\drawable\\add_drugs_to_your_pharmacy.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pharmacy_pin.png",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\src\\main\\res\\drawable\\pharmacy_pin.png"
+    },
+    {
+        "merged": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_checkbox_unchecked_mtrl.xml",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\drawable\\abc_btn_checkbox_unchecked_mtrl.xml"
+    },
+    {
+        "merged": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_action_dark_selector.xml",
+        "source": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\exploded-aar\\com.oguzdev\\CircularFloatingActionMenu\\1.0.2\\res\\drawable\\button_action_dark_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_action_dark_selector.xml",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\exploded-aar\\com.oguzdev\\CircularFloatingActionMenu\\1.0.2\\res\\drawable\\button_action_dark_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\floati.png",
+        "source": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\src\\main\\res\\drawable\\floati.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\arrow.png",
+        "source": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\src\\main\\res\\drawable\\arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list.png",
+        "source": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\src\\main\\res\\drawable\\list.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\photo_couverture2.png",
+        "source": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\src\\main\\res\\drawable\\photo_couverture2.png"
+    },
+    {
+        "merged": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.0.0-beta1\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_mono_light.xml",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_media_route_mono_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_user.png",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\src\\main\\res\\drawable\\icon_user.png"
+    },
+    {
+        "merged": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_share_material.xml",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\drawable\\abc_ic_menu_share_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_light.xml",
+        "source": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\medical_1.png",
+        "source": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\src\\main\\res\\drawable\\medical_1.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\refresh_wifi_signal.png",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\src\\main\\res\\drawable\\refresh_wifi_signal.png"
+    },
+    {
+        "merged": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_add_circle_outline_black_24dp.png",
+        "source": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\src\\main\\res\\drawable\\ic_add_circle_outline_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_on_mtrl.xml",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\drawable\\abc_btn_radio_on_mtrl.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\add_med.png",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\src\\main\\res\\drawable\\add_med.png"
+    },
+    {
+        "merged": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_off_mtrl.xml",
+        "source": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\drawable\\abc_btn_radio_off_mtrl.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_cast_light.xml",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_cast_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_connecting.xml",
+        "source": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast\\8.4.0\\res\\drawable\\cast_ic_notification_connecting.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pharmacydelivery.png",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\src\\main\\res\\drawable\\pharmacydelivery.png"
+    },
+    {
+        "merged": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo.png",
+        "source": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hospital_sign.png",
+        "source": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\src\\main\\res\\drawable\\hospital_sign.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_directions_white_24dp.png",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\src\\main\\res\\drawable\\ic_directions_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\synchronize.png",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\src\\main\\res\\drawable\\synchronize.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.0.0-alpha2\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_location_disabled_white_24dp.png",
+        "source": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\src\\main\\res\\drawable\\ic_location_disabled_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\add_med.png",
+        "source": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\src\\main\\res\\drawable\\add_med.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_off_mtrl.xml",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\drawable\\abc_btn_radio_off_mtrl.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list.png",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\src\\main\\res\\drawable\\list.png"
+    },
+    {
+        "merged": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\error.png",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\src\\main\\res\\drawable\\error.png"
+    },
+    {
+        "merged": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_cut_material.xml",
+        "source": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\drawable\\abc_ic_menu_cut_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_cast_dark.xml",
+        "source": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_cast_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cart_add.png",
+        "source": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\src\\main\\res\\drawable\\cart_add.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_user.png",
+        "source": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\src\\main\\res\\drawable\\icon_user.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cart_add.png",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\src\\main\\res\\drawable\\cart_add.png"
+    },
+    {
+        "merged": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_checkbox_checked_mtrl.xml",
+        "source": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\drawable\\abc_btn_checkbox_checked_mtrl.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_light.xml",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\synchronize.png",
+        "source": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\src\\main\\res\\drawable\\synchronize.png"
+    },
+    {
+        "merged": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\photo_couverture.png",
+        "source": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\src\\main\\res\\drawable\\photo_couverture.png"
+    },
+    {
+        "merged": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\share.png",
+        "source": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\src\\main\\res\\drawable\\share.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\circular_textview.xml",
+        "source": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\src\\main\\res\\drawable\\circular_textview.xml"
+    },
+    {
+        "merged": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\placeholder.png",
+        "source": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\src\\main\\res\\drawable\\placeholder.png"
+    },
+    {
+        "merged": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\floati.png",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\src\\main\\res\\drawable\\floati.png"
+    },
+    {
+        "merged": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\checked.png",
+        "source": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\src\\main\\res\\drawable\\checked.png"
+    },
+    {
+        "merged": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_paste_material.xml",
+        "source": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\drawable\\abc_ic_menu_paste_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_checkbox_checked_mtrl.xml",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\drawable\\abc_btn_checkbox_checked_mtrl.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\photo_couverture.jpg",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\src\\main\\res\\drawable\\photo_couverture.jpg"
+    },
+    {
+        "merged": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_location_searching_white_24dp.png",
+        "source": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\src\\main\\res\\drawable\\ic_location_searching_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\technology.png",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\src\\main\\res\\drawable\\technology.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_on_mtrl.xml",
+        "source": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\drawable\\abc_btn_radio_on_mtrl.xml"
+    },
+    {
+        "merged": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_action_selector.xml",
+        "source": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\exploded-aar\\com.oguzdev\\CircularFloatingActionMenu\\1.0.2\\res\\drawable\\button_action_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_location_on_black_24dp.png",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\src\\main\\res\\drawable\\ic_location_on_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\farouk\\MaPharmConsDZ\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\MaPharmConsDZ\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    }
+]
